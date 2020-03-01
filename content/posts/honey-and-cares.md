@@ -4,21 +4,17 @@ date: 2020-02-26T23:06:46-05:00
 draft: false
 ---
 
-## Proverbs 24:12-14 RCV
+## Enjoyment of Proverbs 24:12-14
 
-**12** If you say, Look, we did not know this - Does not He who weighs the hearts consider it? And He who keeps your soul, does He not know it? And will He not render to every man according to his work?
-
-**13** My son, eat honey, for it is good, And the drippings from the honeycomb, which are sweet to your taste:
-
-**14** Know that wisdom is such for your soul; If you find it , then there will be a latter end, And your hope will not be cut off.
-
-## Enjoyment
+### **12** If you say, Look, we did not know this - Does not He who weighs the hearts consider it? And He who keeps your soul, does He not know it? And will He not render to every man according to his work?
 
 In my experience, I am often butting heads with the Lord. I argue with Him about circumstances, argue with Him about my heart, but who really is He?
 
 He is still the one who weighs my heart, keeps my soul, and renders according to my work.
 
 He is still the one who knows me best after all these years, even when I am under self-deception.
+
+### **13** My son, eat honey, for it is good, And the drippings from the honeycomb, which are sweet to your taste:
 
 Even more wonderfully, there is no chastisement!
 
@@ -35,6 +31,8 @@ I don't know if there is any significance to the honeycomb, but the picture is s
 We taste the sweetness from the honeycomb, directly from the source that always drips.
 
 We eat the good part and trust in Him who knows us best.
+
+### **14** Know that wisdom is such for your soul; If you find it , then there will be a latter end, And your hope will not be cut off.
 
 The next verse is the most impressive to me.
 
