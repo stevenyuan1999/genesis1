@@ -1,6 +1,8 @@
-# Honey and Cares
-
-2/26/2020
+---
+title: "Honey and Cares"
+date: 2020-02-26T23:06:46-05:00
+draft: false
+---
 
 ## Proverbs 24:12-14 RCV
 

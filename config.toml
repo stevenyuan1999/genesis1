@@ -1,0 +1,14 @@
+baseurl = "https://honey.syall.work/"
+title = "Honey"
+author = "Steven Yuan"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+publishDir = "docs/"
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+
+[params]
+    sitename = "Honey"
+    disableWebFonts = false

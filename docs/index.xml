@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Honey</title>
+    <link>https://honey.syall.work/</link>
+    <description>Recent content on Honey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Feb 2020 23:06:46 -0500</lastBuildDate>
+    
+	<atom:link href="https://honey.syall.work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Honey and Cares</title>
+      <link>https://honey.syall.work/posts/honey-and-cares/</link>
+      <pubDate>Wed, 26 Feb 2020 23:06:46 -0500</pubDate>
+      
+      <guid>https://honey.syall.work/posts/honey-and-cares/</guid>
+      <description>Proverbs 24:12-14 RCV 12 If you say, Look, we did not know this - Does not He who weighs the hearts consider it? And He who keeps your soul, does He not know it? And will He not render to every man according to his work?
+13 My son, eat honey, for it is good, And the drippings from the honeycomb, which are sweet to your taste:
+14 Know that wisdom is such for your soul; If you find it , then there will be a latter end, And your hope will not be cut off.</description>
+    </item>
+    
+  </channel>
+</rss>
